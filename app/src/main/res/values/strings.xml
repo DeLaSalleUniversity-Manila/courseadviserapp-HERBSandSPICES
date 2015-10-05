@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CourseAdviser</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="TermsList">
+        <item>1st Term</item>
+        <item>2nd Term</item>
+        <item>3rd Term</item>
+        <item>4th Term</item>
+        <item>5th Term</item>
+        <item>6th Term</item>
+    </string-array>
+</resources>
